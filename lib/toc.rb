@@ -1,5 +1,12 @@
 class String
 
+  # The Main Toc Driver.
+  #
+  # Example:
+  #   puts 'Hello World'.red
+  #   puts 'Hello World'.red_on_black
+  #   puts 'Hello World'.red_on_black.underline
+
   COLOURS = {
     'black'      => 30,
     'red'        => 31,
