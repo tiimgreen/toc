@@ -1,6 +1,10 @@
 # Toc
 
-Toc, inspired by [tco](https://github.com/pazdera/tco) and [colored](https://github.com/defunkt/colored), is a simple Ruby Gem allowing you to colour any outputs to the console.
+Toc is a simple Ruby Gem allowing you to colour outputs to the console.
+
+### Inspiration
+
+Toc inspired by [tco](https://github.com/pazdera/tco) and [colored](https://github.com/defunkt/colored). It is written with simplicity and usability in mind.
 
 ### Usage
 
@@ -14,7 +18,7 @@ Toc, inspired by [tco](https://github.com/pazdera/tco) and [colored](https://git
 - Pink
 - Light Blue
 
-All methods convert names to snake_case.
+All methods convert colour names to `snake_case`.
 
 #### Forground Colour
 
