@@ -35,9 +35,8 @@ class String
   end
 
   def change(colour_code, options = {})
-    if options[:background]
-      bg = COLOURS[options[:background]].to_i + 10
-      "\e[#{colour_code};#{bg}m#{self}\e[0m"
+    if options[:background] && COLOURS[options[:background]]
+      "\e[#{colour_code};#{COLOURS[options[:background]] + 10}m#{self}\e[0m"
     else
       "\e[#{colour_code}m#{self}\e[0m"
     end
