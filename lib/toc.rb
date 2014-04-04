@@ -1,6 +1,6 @@
 class String
   def change(colour_code)
-    "\033[#{color_code}m#{self}\033[0m"
+    "\033[#{colour_code}m#{self}\033[0m"
   end
 
   def black
