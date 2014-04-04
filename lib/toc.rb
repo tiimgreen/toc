@@ -19,11 +19,11 @@ class String
     change 33
   end
 
-  def pink
+  def purple
     change 34
   end
 
-  def purple
+  def pink
     change 35
   end
 
