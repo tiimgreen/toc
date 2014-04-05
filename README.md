@@ -48,4 +48,4 @@ puts 'The text will be Underlined!'.underline
 puts 'The text will be Inversed!'.inverse
 ```
 
-![Styling](http://i.imgur.com/tYdQsMc.png)
+![Styling](http://i.imgur.com/hRVskD3.png)
