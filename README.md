@@ -1,4 +1,4 @@
-# Toc
+# Toc (.to_c)
 
 Toc is a simple Ruby Gem allowing you to colour outputs to the console.
 
