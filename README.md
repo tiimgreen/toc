@@ -8,6 +8,12 @@ Toc inspired by [tco](https://github.com/pazdera/tco) and [colored](https://gith
 
 ### Usage
 
+To install Toc via RubyGems:
+
+``bash
+$ gem install toc
+```
+
 #### Full List of Colours:
 
 - Black
