@@ -34,9 +34,11 @@ puts 'Hello World'.green
 
 ```ruby
 puts 'Hello World'.red_on_black
-puts 'Hello World'.yellow_on_light_blue
-puts 'Hello World'.green_on_red
+puts 'Hello World'.black_on_light_blue
+puts 'Hello World'.green_on_pink
 ```
+
+![Background Colour](http://i.imgur.com/3Epyel6.png)
 
 #### Additional Styles
 
