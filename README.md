@@ -45,7 +45,7 @@ puts 'Hello World'.green_on_pink
 ```ruby
 puts 'The text will be Bold!'.bold
 puts 'The text will be Underlined!'.underline
-puts 'The text will be Reversed!'.reverse
+puts 'The text will be Inversed!'.inverse
 ```
 
-![Styling](http://i.imgur.com/ELXYVBj.png)
+![Styling](http://i.imgur.com/tYdQsMc.png)

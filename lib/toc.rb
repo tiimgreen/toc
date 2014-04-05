@@ -20,7 +20,7 @@ class String
   STYLES = {
     'bold'      => 1,
     'underline' => 4,
-    'reversed'  => 7
+    'inverse'  => 7
   }
 
   COLOURS.each do |colour, val|
