@@ -28,6 +28,8 @@ puts 'Hello World'.yellow
 puts 'Hello World'.green
 ```
 
+![Foreground Colour](http://imgur.com/vtaUUYd)
+
 #### Background Colour
 
 ```ruby
