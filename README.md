@@ -28,7 +28,7 @@ puts 'Hello World'.yellow
 puts 'Hello World'.green
 ```
 
-![Foreground Colour](http://i.imgur.com/vtaUUYd.png)
+![Foreground Colour](http://i.imgur.com/B4Tk3b0.png)
 
 #### Background Colour
 
