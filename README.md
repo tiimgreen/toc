@@ -10,7 +10,7 @@ Toc inspired by [tco](https://github.com/pazdera/tco) and [colored](https://gith
 
 To install Toc via RubyGems:
 
-``bash
+```bash
 $ gem install toc
 ```
 
