@@ -1,4 +1,4 @@
-# Toc (.to_c)
+# Toc (.to_c) [![Build Status](https://travis-ci.org/tiimgreen/toc.svg?branch=master)](https://travis-ci.org/tiimgreen/toc)
 
 Toc is a simple Ruby Gem allowing you to colour outputs to the console.
 
