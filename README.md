@@ -54,4 +54,4 @@ puts 'The text will be Underlined!'.underline
 puts 'The text will be Inversed!'.inverse
 ```
 
-![Styling](http://i.imgur.com/hRVskD3.png)
+![Styling](http://i.imgur.com/gqnXBEF.png)
