@@ -1,5 +1,4 @@
-# Toc (.to_c) [![Build Status](http://img.shields.io/travis/tiimgreen/toc.svg)](https://travis-ci.org/tiimgreen/toc) [![Gem Version](http://img.shields.io/gem/v/toc.svg)](https://rubygems.org/gems/toc)
-[![Coverage](http://img.shields.io/coveralls/tiimgreen/toc.svg)](https://coveralls.io/r/tiimgreen/toc?branch=master)
+# Toc (.to_c) [![Build Status](http://img.shields.io/travis/tiimgreen/toc.svg)](https://travis-ci.org/tiimgreen/toc) [![Gem Version](http://img.shields.io/gem/v/toc.svg)](https://rubygems.org/gems/toc) [![Coverage](http://img.shields.io/coveralls/tiimgreen/toc.svg)](https://coveralls.io/r/tiimgreen/toc?branch=master)
 
 Toc is a simple Ruby Gem allowing you to colour outputs to the console.
 
