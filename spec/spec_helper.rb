@@ -1,3 +1,6 @@
+require 'coveralls'
+Coveralls.wear!
+
 require 'toc'
 
 RSpec.configure do |config|
